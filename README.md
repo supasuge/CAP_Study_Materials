@@ -4,7 +4,7 @@
 - $1$ Hour time limit
 - Online proctored exam
 - Beginner level
-- Normally £100.00, got it for $5.00 USD (roughly) using a discount code form LinkedIn of all places, lol. For $5, you can't go wrong.
+- Normally £100.00, got it for $5.00 USD (roughly) using a discount code form LinkedIn. For $5, you can't go wrong.
 
 
 Below are some of the study materials I used to prepare for the Certified AppSec Practitioner exam. 
