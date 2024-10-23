@@ -15,3 +15,4 @@ Below are some of the study materials I used to prepare for the Certified AppSec
 - [HTTP Headers Cheat Sheet](./HTTP_Headers.md)
 - [SSL Configuration Generator - Mozilla](https://ssl-config.mozilla.org/)
 - [Server Side TLS - Mozilla team](https://wiki.mozilla.org/Security/Server_Side_TLS)
+- [PortSwigger - Web Application Security](https://portswigger.net/)
