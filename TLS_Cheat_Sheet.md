@@ -60,11 +60,6 @@ An example of **TLS 1.2** in action would be a user's web browser connecting to 
 An example of **TLS 1.3** in action would be a user's web browser connecting to a secure website. The browser will use **TLS 1.3** to encrypt the connection, verify the identity of the website, and ensure that the data has not been modified in transit. Additionally, **TLS 1.3** is more secure than **TLS 1.2**, as it uses a combination of encryption, authentication, and data integrity to protect the connection.
 
 ### TLS Versions Comparisons
-Here's an Obsidian Markdown formatted note that summarizes the key differences between TLS versions and recommendations for usage:
-
-Transport Layer Security (TLS) is the protocol that ensures secure communication over networks. Over the years, various versions of TLS have been released, each improving upon the previous one in terms of security and performance. This note provides a comparison between different versions of TLS and recommendations on which to use or avoid.
-
-Here's a TLS/SSL comparison table that includes SSL versions, older TLS versions, and relevant security information, formatted for easy reference:
 
 #### TLS/SSL Versions Comparison Table
 
