@@ -4,7 +4,7 @@
 **Exam details:**
 - $1$ Hour time limit
 - Online proctored exam
-- Beginner/Sem-experienced level certification
+- Beginner/Semi-experienced level certification
   - I have quite a bit of experience with web exploitation that I have learned over time from CTF's, Hack The Box, and Try Hack Me. So I was already familiar with much of the web exploit's and there implication's.
   - I mainly studied the different HTTP header's and there direct implication's as far as security is concerned.
 
