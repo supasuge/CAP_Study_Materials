@@ -4,10 +4,8 @@
 **Exam details:**
 - $1$ Hour time limit
 - Online proctored exam
-- Beginner/Semi-experienced level certification
-  - I have quite a bit of experience with web exploitation that I have learned over time from CTF's, Hack The Box, and Try Hack Me. So I was already familiar with much of the web exploit's and there implication's.
-  - I mainly studied the different HTTP header's and there direct implication's as far as security is concerned.
-
+- Study time: 1 Day - 1 Week (depends on experience level)
+  - Personally, It didn't take any longer than 2-3 days to study for due to my pre-existing knowledge in said topics from my experience on TryHackMe, HackTheBox, and in School of course.  
 
 Below are some of the study materials I used to prepare for the Certified AppSec Practitioner exam. 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
