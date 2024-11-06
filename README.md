@@ -11,7 +11,7 @@ Below are some of the study materials I used to prepare for the Certified AppSec
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [Exam Syllabus](https://secops.group/certified-appsec-practitioner/)
 - [Certified AppSec Practitioner Study Material - GitHub](https://github.com/prasadpanchbhai/CertifiedAppsecPractitioner)
-  - This study guide made by [prasadpanchhai on GitHub](https://github.com/prasadpanchhai), and the below links/resources were my main source of study material/review.  
+  - This study guide made by [prasadpanchhai on GitHub](https://github.com/prasadpanchbhai), and the below links/resources were my main source of study material/review.  
 - [TLS Cheat Sheet](./TLS_Cheat_Sheet.md)
 - [HTTP Headers Cheat Sheet](./HTTP_Headers.md)
 - [SSL Configuration Generator - Mozilla](https://ssl-config.mozilla.org/)
