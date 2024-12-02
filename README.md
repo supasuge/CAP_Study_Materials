@@ -3,9 +3,7 @@
 
 **Exam details:**
 - $1$ Hour time limit
-- Online proctored exam
-- Study time: 1 Day - 1 Week (depends on experience level)
-  - Personally, It didn't take any longer than 2-3 days to study for due to my pre-existing knowledge in said topics from my experience on TryHackMe, HackTheBox, and in School of course.  
+- Online proctored exam 
 
 Below are some of the study materials I used to prepare for the Certified AppSec Practitioner exam. 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
